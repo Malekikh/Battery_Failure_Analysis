@@ -52,7 +52,8 @@ Both **Python (scikit-learn)** and **Minitab** were used to explore and model th
 
 ## Confusion Matrices
 ![image](https://github.com/user-attachments/assets/8355be8c-e1e4-4081-9fb4-a5545aa93eed)
-![image](https://github.com/user-attachments/assets/c2dc6039-6ea1-4a96-a78b-dcd9b5eb53e8)
+![image](https://github.com/user-attachments/assets/43a7cae5-99e8-4d8d-aef0-3da352a0a637)
+
 
 ### ✅ Conclusion:
 1) The **Decision Tree model** outperformed other approaches, showing **very high prediction accuracy** in both tools. This indicates that the features are highly separable and decision tree logic fits the data structure well.
