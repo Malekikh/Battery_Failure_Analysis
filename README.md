@@ -39,6 +39,17 @@ Both **Python (scikit-learn)** and **Minitab** were used to explore and model th
 | 🧯 Pressure     | ➕ Positive       | ⬆️ Higher pressure → ⬆️ Higher likelihood of failure (moderate importance)    |
 | 🔁 Cycle Count | ~ 0              | ➖ Little or no effect on failure in this model                                 |
 
+Python -- Logistic Regression Classifier 
+![image](https://github.com/user-attachments/assets/091db7d8-fd3f-4b97-bfd0-10beb4d52f51)
+
+Python -- Decision Tree Classifier
+![image](https://github.com/user-attachments/assets/b79f333e-75e9-4c17-bce0-7bfbef2eb9c5)
+
+Minitab -- Logistic Regression
+![image](https://github.com/user-attachments/assets/3b5fe069-5e49-4d4e-93a6-acf50d59f2e4)
+
+
+
 ---
 
 ## 🧠 Modeling Results
